@@ -21,6 +21,7 @@ website:
       - text: "Contact info"
         href: contactinfo/index.qmd
       - text: "Blog Post"
+        href: blogpost/index.qmd
     
     # your social media handles
     right:
