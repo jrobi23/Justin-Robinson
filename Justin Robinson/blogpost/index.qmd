@@ -1,0 +1,14 @@
+---
+title: Blog Post
+---
+
+# A World Beyond *p* <0.05
+## 2024-04-23
+
+Several insights were made in the special issue of The American Statistician, “Moving to a World Beyond “p <0.05” by Wasserstein et al. Three points in particular that I often reflect on are:
+
++ “Don’t base your conclusions solely on whether an association or effect was “statistically significant.”
++ “Don’t believe that an association or effect exists just because it was statistically significant.”
++ “Don’t believe that an association or effect is absent just because it was not statistically significant.”
+
+These points underscore a long-standing reliance on the p-value as the arbiter of significance—a reliance that may have steered us astray. Originating from an intent to flag results worthy of deeper examination as far back as 1885, the p-value has paradoxically become a stop sign for critical inquiry. Rather than diving deeper into the data, we too often halt at the threshold of “statistical significance,” drawing conclusions that may lack robust justification. Unfortunately, this trend has coerced many researchers into fixating solely on "significant results," while overlooking or disregarding other potentially meaningful findings. Moreover, numerous scholarly journals perpetuate this narrow focus by only publishing manuscripts that show “statistically significant” results.  As we move forward in the world of science, it becomes imperative to challenge the entrenched vocabulary of "statistical significant" and instead advocate for a more comprehensive explication of results. We should strongly encourage and embrace a paradigm shift wherein the richness and complexity of our findings are fully elucidated, and not limited to the confines of statistical significance!
